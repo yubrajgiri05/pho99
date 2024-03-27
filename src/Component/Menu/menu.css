@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    gap: 20px;
+}
+.menu .left{
+    width: 40%;
+}
+.menu .right{
+    width: 60%;
+}
