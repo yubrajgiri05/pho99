@@ -11,6 +11,7 @@ const Pho99 = () => {
             <div className="home-text">
               <div className="title">Our Story</div>
               <div className="content">Our Vietnamese restaurant is rooted in a love for sharing the authentic flavors of our culture through fresh, traditional dishes. Come savor the stories of Vietnam with us.</div>
+              <div className="button"> Learn More</div>
             </div>
           </div>
           <div className="right">

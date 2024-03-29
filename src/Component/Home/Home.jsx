@@ -11,6 +11,7 @@ const Home = () => {
           <div className="home-text">
               <div className="title">Welcome to PHO99</div>
               <div className="content">Savor the flavor of Vietnam</div>
+              <div className="button">See Menu</div>
             </div>
           </div>
           <div className="right">

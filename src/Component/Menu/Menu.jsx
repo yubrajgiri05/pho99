@@ -10,10 +10,11 @@ const Menu = () => {
             <div className="home-text">
               <div className="title">Our Menu</div>
               <div className="content">Savor the vibrant and authentic flavors of Vietnam with our carefully curated menu, featuring classic dishes and regional specialties.</div>
+              <div className="button">See More</div>
             </div>
           </div>
           <div className="right">
-           
+            <h1>aaaaaaaa</h1>
           </div>
         </div>
       </div>

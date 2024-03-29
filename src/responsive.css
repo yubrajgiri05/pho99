@@ -30,7 +30,14 @@
         height: fit-content !important;
         margin-top: 20px;
         align-items: center ;
+        width: 100% !important;
    
+  }
+  .right{
+    order: 0 !important;
+  }
+  .left{
+    order: 1 !important;
   }
   .home-text{
     display: flex;
@@ -47,4 +54,7 @@
   .home-text{
     padding: 0 !important;
   }
+  .menu{
+    flex-direction: column;
+}
 }

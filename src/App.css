@@ -35,3 +35,16 @@ img {
     height: 400px;
     width: 400px;
 }
+.button{
+    border: 2px solid #ec1c24;
+    border-radius: 20px;
+    color:#ec1c24;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 7px 25px;
+    width: fit-content;
+}
+.button:hover {
+    background: #ec1c24;
+    color: #fff;
+}
