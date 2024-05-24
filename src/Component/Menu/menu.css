@@ -8,3 +8,40 @@
 .menu .right{
     width: 60%;
 }
+.menu-outer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.menu-box{
+    background-color: #fff;
+    border: 2px solid #ec1c24;
+    padding: 10px;
+    position: relative;
+    width: calc(33.33% - 24px);
+}
+.menu-box img {
+    border-radius: 50%;
+    height: 125px;
+    margin-bottom: 10px;
+    object-fit: contain;
+    width: 100%;
+}
+.menu-text{
+    margin-left: 40px;
+}
+.menu-text .title{
+    font-size: 12px;
+    font-weight: 700;
+}
+.menu-text .detail{
+    color: #555;
+    font-size: 10px;
+    margin: 5px 0;
+}
+.menu-text .price{
+    color: #ec1c24;
+    font-size: 16px;
+    font-weight: 700;
+}
